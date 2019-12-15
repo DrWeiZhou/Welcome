@@ -9,5 +9,6 @@ Welcome to the profile of Wei!
 - MIS knowledge
 
 ![My Photo](/wei.jpg)
+[Something Else](/welcome.md)
 --------------------------------------------------
 Please contact me via **zhouwei@qut.edu.cn**
