@@ -8,5 +8,6 @@ Welcome to the profile of Wei!
 - Programming
 - MIS knowledge
 
+![My Photo](/wei.jpg)
 --------------------------------------------------
 Please contact me via **zhouwei@qut.edu.cn**
